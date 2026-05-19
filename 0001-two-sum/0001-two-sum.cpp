@@ -1,34 +1,25 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-         
-         int sum = 0;
-         int n = nums.size();
 
-         int first = 0;
-         int last = first + 1;
+        int n = nums.size();
 
-         for(int i = 0; i < n ; i++ ){
-            first = i;
-            last = i + 1;
-            
-            while(last != n){
-              sum = nums[first] + nums[last];
+        for(int first = 0; first < n; first++) {
 
-              if(sum == target){
-                   return {first, last};
-              }
+            int last = first + 1;
 
-              last++;
-           
+            while(last < n) {
+
+                int sum = nums[first] + nums[last];
+
+                if(sum == target) {
+                    return {first, last};
+                }
+
+                last++;
             }
-            
-         }
+        }
 
-               return {};
-
-        
-
-
+        return {};
     }
 };
