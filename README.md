@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
