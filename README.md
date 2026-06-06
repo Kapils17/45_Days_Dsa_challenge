@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0485-max-consecutive-ones) |
+| [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
+| [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
+| [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
