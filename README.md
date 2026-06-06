@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
+| [1392-longest-happy-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1392-longest-happy-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
+| [1392-longest-happy-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1392-longest-happy-prefix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,8 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1392-longest-happy-prefix) |
 ## Trie
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
