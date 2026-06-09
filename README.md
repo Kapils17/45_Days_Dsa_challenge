@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -167,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1392-longest-happy-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
