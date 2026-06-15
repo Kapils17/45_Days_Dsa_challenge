@@ -1,38 +1,40 @@
 class Solution {
 public:
 
-    void solve(vector<int>& nums, vector<int>& temp,
-               vector<vector<int>>& ans, int i) {
-
-        if(i == nums.size()) {
+   void uniquesubsets(vector<int> nums , vector<int> &temp,  vector<vector<int>> &ans , int i){
+           
+        if(i == nums.size()){
             ans.push_back(temp);
             return;
         }
 
-
         temp.push_back(nums[i]);
-        solve(nums, temp, ans, i + 1);
-
-        temp.pop_back();
-
+        uniquesubsets(nums , temp , ans , i+1);
  
-        int index = i + 1;
-        while(index < nums.size() && nums[index] == nums[index - 1]) {
-            index++;
+        temp.pop_back();
+        
+        int idx = i + 1;
+        while(idx < nums.size() && nums[idx] == nums[idx-1]){
+            idx++;
         }
-
-        solve(nums, temp, ans, index);
-    }
-
+   
+        uniquesubsets(nums , temp , ans , idx);
+ 
+  }
+   
+   
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-
-        sort(nums.begin(), nums.end());
+     
 
         vector<int> temp;
         vector<vector<int>> ans;
 
-        solve(nums, temp, ans, 0);
+        sort(nums.begin(), nums.end());
+
+        uniquesubsets(nums, temp, ans, 0);
 
         return ans;
+
+
     }
 };
