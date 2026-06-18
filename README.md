@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0258-add-digits) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
