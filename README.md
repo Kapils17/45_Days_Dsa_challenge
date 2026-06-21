@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0189-rotate-array) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0060-permutation-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
