@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
