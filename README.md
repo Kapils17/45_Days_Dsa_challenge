@@ -238,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0206-reverse-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Design
