@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Design
 |  |
