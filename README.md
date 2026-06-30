@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
 | [1397-find-all-good-strings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1397-find-all-good-strings) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Number Theory
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
@@ -257,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
