@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -267,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
