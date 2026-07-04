@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0848-shifting-letters) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1408-string-matching-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1408-string-matching-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1397-find-all-good-strings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1397-find-all-good-strings) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
