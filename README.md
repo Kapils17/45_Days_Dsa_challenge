@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1408-string-matching-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2073-time-needed-to-buy-tickets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
 | [1397-find-all-good-strings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1397-find-all-good-strings) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Simulation
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0073-set-matrix-zeroes) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 ## String
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Doubly-Linked List
 |  |
