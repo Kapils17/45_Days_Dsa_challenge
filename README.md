@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
