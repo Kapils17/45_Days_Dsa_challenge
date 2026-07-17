@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0704-binary-search) |
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0848-shifting-letters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2073-time-needed-to-buy-tickets) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
