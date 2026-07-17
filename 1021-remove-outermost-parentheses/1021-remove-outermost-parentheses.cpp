@@ -2,32 +2,32 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         
-     int n = s.length();
+        string ans = "";
+        int count = 0;
 
-     string ans;
-     int count = 0;
+        for(int i = 0; i < s.length() ; i++){
+             
+             char ch = s[i];
 
-     for(int i = 0 ; i < n ; i++){
-      
-       if(s[i] == '('){
-       
-       count++;
+             if(ch == '('){
+                count++;
 
-       if(count > 1){
-         ans.push_back(s[i]);
-       }
-       
-       } else{
-           count--;
+                if(count > 1){
+                    ans = ans + ch;
+                }
+             }
 
-           if(count > 0){
-            ans.push_back(s[i]);
-           }
-       }
+             else{
+                count--;
 
-     
-     }
-    
-    return ans;
+                if(count > 0){
+                    ans += ch;
+                }
+             }
+
+        }
+        
+        return ans;
+
     }
 };
