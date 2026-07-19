@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0232-implement-queue-using-stacks) |
@@ -220,10 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0160-intersection-of-two-linked-lists) |
