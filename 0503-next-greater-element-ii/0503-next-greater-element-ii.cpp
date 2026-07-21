@@ -1,36 +1,25 @@
 class Solution {
 public:
-    vector<int> nextGreaterElements(vector<int>& nums1) {
-   
-    vector<int> nums2(nums1.size()*2);
-    vector<int> ans(nums1.size());
+    vector<int> nextGreaterElements(vector<int>& nums) {
 
+        int n = nums.size();
+        vector<int> ans(n, -1);
+        stack<int> st;
 
+        for (int i = 2 * n - 1; i >= 0; i--) {
 
-     
-     for(int i = 0; i < nums2.size() ; i++){
-        
-        nums2[i] = nums1[i % nums1.size()];
-     
-     }
-
-    for(int i = 0; i < nums2.size()/2 ; i++){
-        int next = -1;
-
-        for(int j = i+1; j < nums2.size(); j++){
-            if(nums2[j] > nums2[i]){
-                next = nums2[j];
-                break;
+            while (!st.empty() && st.top() <= nums[i % n]) {
+                st.pop();
             }
+
+            if (i < n) {
+                if (!st.empty())
+                    ans[i] = st.top();
+            }
+
+            st.push(nums[i % n]);
         }
-      
-        ans[i] = next;
-      
+
+        return ans;
     }
-
-    
-    return ans;
-
-    }
-
 };
