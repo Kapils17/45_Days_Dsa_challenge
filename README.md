@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0496-next-greater-element-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
