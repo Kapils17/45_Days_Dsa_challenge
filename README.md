@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3731-find-missing-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3731-find-missing-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
