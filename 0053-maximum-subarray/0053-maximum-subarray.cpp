@@ -1,24 +1,21 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        
-    //Solving this problem by using the Kadane algorithm - Optimized 
+        int sum = 0;
+        int maxSum = INT_MIN;
 
-    int n = nums.size();
+        for(int i = 0; i < nums.size(); i++){
 
-    int current_sum = 0;
-    int Max_sum = INT_MIN;
+          sum = sum + nums[i];
+          
+          maxSum = max(sum , maxSum);
 
-    for(int i = 0; i < n; i++){
+          if(sum < 0){
+            sum = 0;
+          }
 
-        current_sum += nums[i];
-
-        Max_sum = max(current_sum , Max_sum);
-
-        if(current_sum < 0){
-            current_sum = 0;
         }
+
+        return maxSum;
     }
-       return Max_sum;
-     }
 };
