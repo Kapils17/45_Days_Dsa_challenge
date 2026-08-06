@@ -2,29 +2,28 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         
-        int n = nums.size();
+        
+        vector<int> ans(nums.size());
 
-        vector<int> positive;
-        vector<int> negative;
-        vector<int> ans;
+        int idx1 = 0;
+        int idx2 = 1;
 
         for(int i = 0; i < nums.size(); i++){
-            if(nums[i] > 0){
-                positive.push_back(nums[i]);
+            
+          if(nums[i] > 0){
+            ans[idx1] = nums[i];
+            idx1 += 2;
 
-            }else{
-                negative.push_back(nums[i]);
-            }
-        }
+          }else{
+             ans[idx2 ] = nums[i];
+             idx2 += 2;
+          }
 
-        for(int i = 0; i < positive.size(); i++){
-            ans.push_back(positive[i]);
-            ans.push_back(negative[i]);
         }
 
         return ans;
-        
-        
+
+
 
     }
 };
