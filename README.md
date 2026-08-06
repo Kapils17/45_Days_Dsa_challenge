@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
 |  |
 | ------- |
