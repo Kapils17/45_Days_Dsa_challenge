@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0735-asteroid-collision) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
 | ------- |
