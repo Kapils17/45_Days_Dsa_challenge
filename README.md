@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1408-string-matching-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0073-set-matrix-zeroes) |
+| [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Binary Search
