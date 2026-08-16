@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
