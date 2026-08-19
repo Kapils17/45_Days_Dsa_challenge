@@ -9,34 +9,28 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-int height(TreeNode* root){
-    if(root == NULL){
-        return 0;
-    }
-
-    int left = height(root -> left);
-    int right = height(root -> right);
-
-    return max(left , right) + 1;
-}
-
 class Solution {
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        
-    if(root == NULL){
-        return 0;
-    }
-
-    int leftdiameter =  diameterOfBinaryTree(root -> left);
-    int rightdiameter = diameterOfBinaryTree(root -> right); 
-    int currdiameter = height(root -> left) + height(root -> right) ;
-
-    return max(leftdiameter , max(rightdiameter , currdiameter) );
-
-
     
+    int ans = 0;
+    int height(TreeNode* root){
+          
+          if(root == NULL){
+            return 0;
+          }
 
+          int left = height(root -> left);
+          int right = height(root -> right);
+
+          ans = max(ans , left + right);
+
+          return max(left , right) + 1;
+
+    }
+      
+    int diameterOfBinaryTree(TreeNode* root) {
+        height(root);
+
+        return ans;
     }
 };
