@@ -4,19 +4,19 @@ public:
         
         unordered_map<int , int> mp;
 
-        for(int i = 0; i < nums.size(); i++){
-            int req = target - nums[i];
-           
-            if(mp.find(req) != mp.end()){
-                return {mp[req] , i};
-            }
-           
-           mp[nums[i]] = i;
-            
-        }
-        
-        return {};
+        mp[nums[0]] = 0;
 
+        for(int i = 1; i < nums.size(); i++){
+            int required = target - nums[i];
+
+            if(mp.find(required) != mp.end()){
+                return {i , mp[required]};
+            }
+
+            mp[nums[i]] = i;
+        }
+
+        return {};
 
     }
 };
