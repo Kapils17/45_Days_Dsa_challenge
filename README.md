@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3731-find-missing-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3731-find-missing-elements) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
