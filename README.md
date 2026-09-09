@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0199-binary-tree-right-side-view) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0199-binary-tree-right-side-view) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0199-binary-tree-right-side-view) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0662-maximum-width-of-binary-tree) |
