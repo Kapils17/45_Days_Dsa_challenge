@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Hash Table
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1004-max-consecutive-ones-iii) |
