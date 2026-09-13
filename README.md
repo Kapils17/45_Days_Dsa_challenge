@@ -559,4 +559,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
