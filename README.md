@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
