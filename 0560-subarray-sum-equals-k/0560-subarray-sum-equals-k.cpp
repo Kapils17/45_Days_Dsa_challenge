@@ -2,39 +2,31 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         
-         int n = nums.size();
-         int count = 0;
+        vector<int> prefix(nums.size());
+        unordered_map<int, int> mp;
 
-         vector<int> prefix(n);
-         unordered_map<int , int > mp;
-        
         prefix[0] = nums[0];
-        for(int i = 1; i < n; i++){
-            prefix[i] = prefix[i-1] + nums[i]; 
+
+        for(int i = 1; i < prefix.size(); i++) {
+            prefix[i] = prefix[i - 1] + nums[i];
         }
 
-        for(int j = 0; j < n; j++){
-            
-             if(prefix[j] == k){
-                count++;
-             }
-             
-             int first = prefix[j] - k;
-             
-             if (mp.find(first) != mp.end()) {
-             count += mp[first];
-             } 
+        int count = 0;
 
-             mp[prefix[j]]++;
+        // Prefix sum 0 exists before the array starts
+        mp[0] = 1;
 
+        for(int i = 0; i < prefix.size(); i++) {
 
+            int result = prefix[i] - k;
 
+            if(mp.find(result) != mp.end()) {
+                count += mp[result];
+            }
 
-
+            mp[prefix[i]]++;
         }
 
         return count;
-         
-        
     }
 };
