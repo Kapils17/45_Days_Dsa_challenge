@@ -1,30 +1,29 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-         
-         string ans = "";
-         int len = s.length();
+        
+        vector<int> v;
 
-         for(int i = 0; i < len; i++){
+        for(int i = 0; i < s.length(); i++){
             char ch = s[i];
 
             if(isalnum(ch)){
-                ans.push_back(tolower(ch));
+                v.push_back(tolower(ch));
             }
-         }
-         
-         int i = 0;
-         int j = ans.length() - 1;
-         while(i < j){
-            if(ans[i] != ans[j]){
+        }
+
+        int i = 0;
+        int j = v.size() - 1;
+
+        while(i <= j){
+            if(v[i] != v[j]){
                 return false;
             }
-
             i++;
             j--;
-         }
+        }
 
-         return true;
+        return true;
 
     }
 };
