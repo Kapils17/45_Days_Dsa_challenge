@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -620,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0207-course-schedule) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
