@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -611,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
