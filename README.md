@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0735-asteroid-collision) |
+| [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
 ## Memoization
 |  |
 | ------- |
