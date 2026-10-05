@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1207-unique-number-of-occurrences](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1408-string-matching-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
