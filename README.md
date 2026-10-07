@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0662-maximum-width-of-binary-tree) |
