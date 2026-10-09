@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
