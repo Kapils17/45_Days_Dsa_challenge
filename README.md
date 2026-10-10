@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0848-shifting-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
