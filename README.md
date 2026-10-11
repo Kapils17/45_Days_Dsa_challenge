@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1023-camelcase-matching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1207-unique-number-of-occurrences](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1408-string-matching-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2073-time-needed-to-buy-tickets) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2965-find-missing-and-repeated-values) |
