@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0678-valid-parenthesis-string) |
 | [0813-largest-sum-of-averages](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0813-largest-sum-of-averages) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
