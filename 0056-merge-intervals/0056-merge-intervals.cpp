@@ -12,6 +12,7 @@ public:
            }
 
          else{
+                ans.back()[0] = min(ans.back()[0] , intervals[i][0]);
                 ans.back()[1] = max(ans.back()[1], intervals[i][1]);
             }
            
