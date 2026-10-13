@@ -5,17 +5,20 @@ public:
        [](const vector<int>& a, const vector<int>& b) {
         return a[1] < b[1];
        });
+     
+      int endingtime = intervals[0][1]; 
+      int removalcount = 0;
 
-       vector<vector<int>> ans;
-       int n = intervals.size();
+      for(int i = 0; i < intervals.size(); i++){
+        if(intervals[i][0] < endingtime){
+          removalcount++;
+        }
+        else{
+            endingtime = intervals[i][1];
+        }
+      }
 
-       for(int i = 0; i < n; i++){
-            if(ans.empty() || ans.back()[1] <= intervals[i][0]){
-                ans.push_back(intervals[i]);
-            }
-       }
-
-       return n - ans.size();
+      return removalcount - 1 ;
 
     }
 };
