@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2073-time-needed-to-buy-tickets) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1314-matrix-block-sum) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1504-count-submatrices-with-all-ones) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
