@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0496-next-greater-element-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0523-continuous-subarray-sum) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -218,12 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -485,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -493,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0912-sort-an-array) |
 ## Prefix Sum
@@ -640,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kapils17/45_Days_Dsa_challenge/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
