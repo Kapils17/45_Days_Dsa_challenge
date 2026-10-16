@@ -1,7 +1,7 @@
 class Solution {
 public:
      
-    void solve(vector<int> nums , vector<vector<int>> &ans ,  int size , int i , vector<int> temp){
+    void solve(vector<int>& nums , vector<vector<int>> &ans ,  int size , int i , vector<int> &temp){
         
           
           //base case 
