@@ -1,7 +1,7 @@
 class Solution {
 public:
     
-    void solve(string digit , vector<string> &ans , string &temp ,int index , int n , unordered_map<int , string> mp){
+    void solve(string digit , vector<string> &ans , string &temp ,int index , int n , unordered_map<int , string> &mp){
        if(index == n){
         ans.push_back(temp);
         return;
