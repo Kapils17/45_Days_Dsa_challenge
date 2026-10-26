@@ -1,41 +1,34 @@
 class Solution {
 public:
-
-  void solve(int n , int openBracket, int closeBracket ,vector<string> &ans , string &temp){
       
-      
-
-      if(openBracket == n && closeBracket == n){
+    void generate(int n , int open , int close , vector<string>& ans , string &temp){
+     if(open == n && close == n){
         ans.push_back(temp);
         return;
-      }
-      
-      if(openBracket < n){
+     }
+
+     if(open < n){
         temp.push_back('(');
-        solve(n , openBracket + 1 , closeBracket , ans , temp);
+        generate(n , open + 1 , close , ans , temp);
         temp.pop_back();
-      }
-
-      if(closeBracket < openBracket){
+     }
+     if(close < open){
         temp.push_back(')');
-        solve(n , openBracket , closeBracket + 1, ans , temp);
+        generate(n , open , close + 1 , ans , temp);
         temp.pop_back();
-      }
-
-  }
-
-     
+     }
+    }
+   
     vector<string> generateParenthesis(int n) {
-        int openBracket = 0;
-        int closeBracket = 0;
+        int openbracket = 0;
+        int closebracket = 0;
+
         vector<string> ans;
         string temp = "";
 
-        solve(n , openBracket , closeBracket , ans , temp);
+        generate(n , openbracket , closebracket , ans , temp);
 
         return ans;
-        
 
-        
     }
 };
